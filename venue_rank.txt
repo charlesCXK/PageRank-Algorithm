@@ -1,0 +1,365 @@
+ACL	0.04985090708302208
+CL	0.04943662528436963
+COLING	0.04725432246700099
+ANLP	0.03601537633222333
+HLT	0.03303177363008417
+EMNLP	0.025880566080702674
+EACL	0.024851278190779556
+NAACL	0.023521956726744536
+Workshop On Speech And Natural Language	0.017976319070796838
+CoNLL	0.0163582982584011
+MUC	0.015825050102316208
+VLC	0.012018452902335004
+AJCL	0.011080198620022089
+Workshop On Very Large Corpora	0.009521349211315006
+2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora	0.009477614609648194
+TINLP	0.00894148240252334
+Workshop On Intelligent Scalable Text Summarization	0.007576092056715711
+Workshop On Tagging Text With Lexical Semantics: Why What And How?	0.007435715200406691
+Workshop On Computational Natural Language Learning CoNLL	0.007287761918807961
+IJCNLP	0.007234368336608441
+INLG	0.006847573277531893
+SIGDIAL	0.006703056396250089
+LREC	0.005650138670663506
+Workshop On Natural Language Generation	0.0056238747660984105
+Workshop on Statistical Machine Translation	0.005442688404945638
+Workshop On The Acquisition Of Lexical Knowledge From Text	0.0052826171186839644
+Workshop On Very Large Corpora: Academic And Industrial Perspectives	0.005249086163192547
+Workshop On Strategic Computing - Natural Language	0.00470454517599606
+Workshop On TIPSTER Text Program	0.004612064947871595
+Workshop On Natural Language Generation EWNLG	0.0046095075793014355
+Workshop On Usage Of WordNet In Natural Language Processing Systems	0.004569023437830401
+Workshop On Automatic Information Extraction And Building Of Lexical Semantic Resources For NLP Applications	0.004537743035479541
+Workshop On Operational Factors In Practical Robust Anaphora Resolution For Unrestricted Texts	0.004444435254526974
+Workshop on Semantic Evaluations (SemEval)	0.0043976456652798845
+Workshop On Computational Approaches To Semitic Languages	0.0043828624705055195
+Workshop On The Balancing Act: Combining Symbolic And Statistical Approaches To Language	0.004121894482741046
+Workshop On Lexical Semantics And Knowledge Representation	0.003972065956201805
+Workshop On Unsupervised Lexical Acquisition	0.0038835015393257014
+Workshop On Text Summarization Branches Out	0.003851447353356092
+Workshop On New Methods In Language Processing And Computational Natural Language Learning	0.0037531756341825434
+SIGLEX Workshop On Standardizing Lexical Resources	0.0037241155875520934
+Workshop On Data-Driven Methods In Machine Translation	0.003672266352505216
+SENSEVAL International Workshop On The Evaluation Of Systems For The Semantic Analysis Of Text	0.003639092373259318
+SIGHAN Workshop On Chinese Language Processing	0.0036355297801836987
+Workshop On Automatic Summarization	0.003608033622875031
+Workshop On Unsupervised Learning In Natural Language Processing	0.003517340200423311
+MWE	0.003481072374013122
+Workshop On Discourse Relations And Discourse Markers	0.003434100123400263
+International Joint Workshop On Natural Language Processing In Biomedicine And Its Applications NLPBA BioNLP	0.0033600061181289762
+Workshop On Breadth And Depth Of Semantic Lexicons	0.0032186354013074253
+Workshop On Parsing Technology	0.0032081358581448217
+TextGraphs Workshop On Graph Based Methods For Natural Language Processing	0.0031632874428946184
+Workshop On Conversational Systems	0.0030169316508095088
+Linguistic Annotation Workshop	0.0028927668465908553
+Workshop On Frontiers In Corpus Annotation	0.0028647348002145694
+Workshop On Effective Tools And Methodologies For Teaching Natural Language Processing And Computational Linguistics	0.002862238386911375
+Computational Lexical Semantics Workshop	0.0028051861886800055
+Workshop On Grammar Engineering And Evaluation	0.002801801926414464
+Workshop On Computational Environments For Grammar Development And Linguistic Engineering	0.0027898760472460185
+Workshop On Paraphrasing	0.002782049564356895
+Workshop On Intrinsic And Extrinsic Evaluation Measures For Machine Translation And/or Summarization	0.0027637804029470043
+Workshop On Empirical Modeling Of Semantic Equivalence And Entailment	0.0027518157172377535
+Workshop On Natural Language Processing In The Biomedical Domain	0.0027371770333603014
+Workshop On Word Sense Disambiguation: Recent Successes And Future Directions	0.0027344304726453017
+Workshop On Text Summarization	0.0027104818777760947
+Workshop On Temporal And Spatial Information Processing	0.0027093524823901217
+Workshop On Building And Using Parallel Texts: Data Driven Machine Translation And Beyond	0.0026854980351774032
+Workshop:  Biological translational and clinical language processing	0.002652634955537467
+ENLG	0.0026459411021589082
+Workshop on Textual Entailment and Paraphrasing	0.002643383474004372
+Workshop On Frontiers In Corpus Annotations II: Pie In The Sky	0.0026316183894758
+Workshop On Finite State Methods In Natural Language Processing	0.002607182566742609
+Workshop On Building And Using Parallel Texts	0.0025856346608541677
+Workshop On Morphological And Phonological Learning	0.0025843155995796856
+Workshop:  Chinese Language Processing	0.0025518227747970135
+Workshop On The Computational Treatment Of Nominals	0.0025439909085126417
+Proceedings of the Fourth SIGHAN Workshop on Chinese Language Processing	0.0025160464849541702
+Proceedings of the Third International Workshop on Paraphrasing (IWP2005)	0.0024827830653581366
+Workshop On Sentiment And Subjectivity In Text	0.002431800293324834
+Workshop On Linking Biological Literature Ontologies And Databases	0.002422131771481444
+Proceedings of the NAACL HLT 2010 Workshop on Creating Speech and Language Data with Amazon&rsquo;s Mechanical Turk	0.002413707018084732
+Workshop On Multilingual And Mixed-Language Named Entity Recognition	0.0023710715258516875
+Workshop On Multilingual Summarization And Question Answering	0.002365464223144527
+Workshop On Computational Phonology	0.0023647914868070983
+Workshop on Deep Linguistic Processing	0.0023049225526964538
+SSST	0.0022558021398733146
+Workshop On Coreference And Its Applications	0.002246573411908985
+Proceedings of the Workshop on Language in Social Media (LSM 2011)	0.0022206558002240777
+Proceedings of the Workshop on Geometrical Models of Natural Language Semantics	0.0022127690180252573
+Proceedings of the 2010 Named Entities Workshop	0.0021848856635094363
+Proceedings of the Workshop on Current Trends in Biomedical Natural Language Processing	0.002181126196173168
+Workshop On Comparing Corpora	0.0021800400244779724
+IWPT	0.002159829334980034
+Workshop On Building Educational Applications Using Natural Language Processing	0.00213977200511836
+Workshop On Natural Language Processing In Biomedicine	0.0021298192166867495
+BioNLP 	0.002128135442993008
+Proceedings of the 2010 Workshop on Domain Adaptation for Natural Language Processing	0.0021244516275239077
+Workshop On Discourse Annotation	0.0021112324322715855
+Proceedings of the Workshop on Semantic Evaluations: Recent Achievements and Future Directions (SEW-2009)	0.0020675506490788025
+Proceedings of the BioNLP 2009 Workshop Companion Volume for Shared Task	0.002064843140893461
+Workshop On Computational Approaches To Arabic Script-Based Languages	0.002053915579332976
+ICPT	0.002038985264065376
+Workshop On Current Themes In Computational Phonology And Morphology	0.002009610827092662
+Workshop On Towards Standards And Tools For Discourse Tagging	0.0019836818213216016
+Workshop On Open-Domain Question Answering	0.0019737620787710517
+Workshop On Scalable Natural Language Understanding	0.0019478625722132996
+Workshop On Information Retrieval With Asian Languages	0.0019445499321747728
+Proceedings of the Workshop on Parsing German	0.0019392074344542272
+Workshop On Recent Advances In Dependency Grammar	0.0019285663150344341
+Workshop On Linguistically Interpreted Corpora	0.001925362701850562
+SIGLEX Workshop On Deep Lexical Acquisition	0.0019178162444422552
+Proceedings of the Workshop on Integer Linear Programming for Natural Language Processing	0.0019125366313414536
+Proceedings of the NAACL HLT 2009 Workshop on Semi-supervised Learning for Natural Language Processing	0.001906625646443859
+BEA	0.0019004022285244355
+Proceedings of the First Workshop on Algorithms and Resources for Modelling of Dialects and Language Varieties	0.00189894715574915
+Workshop On Asian Language Resources And International Standardization	0.0018935320552256902
+Workshop On Spoken Language Translation	0.001888599860945598
+Proceedings of the Fifth International Workshop on Inference in Computational Semantics	0.0018876277915334822
+Workshop On New Text Wikis And Blogs And Other Dynamic Text Sources	0.001876325385980278
+Proceedings of the IJCNLP-08 Workshop on NLP for Less Privileged Languages	0.0018586462743987117
+Workshop On NLP And XML NLPXML	0.0018197454565848214
+Workshop On Tree Adjoining Grammar And Related Formalisms	0.0017896031736421094
+IWCS	0.0017864989723771212
+BUCC	0.0017846521067156496
+SIGMORPHON	0.0017791891448482528
+Workshop on Statistical Parsing of Morphologically-Rich Languages	0.0017587482856867606
+Workshop On Making Sense Of Sense: Bringing Psycholinguistics And Computational Linguistics Together	0.0017493608108045608
+LaTeCH	0.0017463799759439248
+Proceedings of the NAACL HLT 2010 Workshop on Computational Approaches to Analysis and Generation of Emotion in Text	0.0017440979940145593
+Proceedings of the 2010 Workshop on GEometrical Models of Natural Language Semantics	0.0017363055833745553
+Workshop On Processing Of Dependency-Based Grammars	0.0017213719442381527
+Workshop On The Relation Of Discourse/Dialogue Structure And Reference	0.00171963503928423
+Workshop On SEMANET: Building And Using Semantic Networks	0.001715801186488826
+ACL-IJCNLP: Student Research Workshop papers	0.0017066610343875314
+Workshop:  Conference On Reference Resolution And Its Applications	0.0017031490643497921
+Workshop On Pragmatics Of Question Answering	0.001697316851127572
+Workshop On Incremental Parsing: Bringing Engineering And Cognition Together	0.0016962510125859197
+CompuTerm International Workshop On Computational Terminology	0.0016962350709753004
+Workshop On Text Meaning And Interpretation	0.001689598825556496
+Workshop On Building Educational Applications Using NLP	0.0016890862805120598
+Software Engineering Testing and Quality Assurance for Natural Language Processing	0.0016772262487485556
+Coling 2008: Proceedings of the 2nd workshop on Information Retrieval for Question Answering	0.0016568418543190914
+Workshop On Multilingual Linguistic Resources	0.001650791358617046
+Workshop on Computational Approaches to Figurative Language	0.0016498302619884463
+Workshop On Text Meaning	0.001648650311497151
+Workshop On Content Visualization And Intermedia Representations	0.0016130355953316955
+Proceedings of the NAACL HLT 2009 Workshop on Active Learning for Natural Language Processing	0.001612694613268746
+Workshop on Bridging the Gap: Academic and Industrial Research in Dialog Technologies	0.0015976800209710025
+Workshop On Annotating And Reasoning About Time And Events	0.0015897233571996146
+Workshop On Learning Structured Information In Natural Language Applications	0.001578913569851122
+Workshop On Embedded Machine Translation Systems	0.0015621182040632098
+Proceedings of the Workshop on Negation and Speculation in Natural Language Processing	0.0015599596989559809
+Workshop On Intentionality And Structure In Discource Relations	0.001548884179226388
+Proceedings of the GEMS 2011 Workshop on GEometrical Models of Natural Language Semantics	0.001541074531759701
+Workshop On Analysis Of Geographic References	0.0015377100414958344
+Workshop On Analyzing Conversations In Text And Speech	0.0015359848641701077
+Proceedings of the Workshop on Computational Approaches to Linguistic Creativity	0.0015188103025403907
+Workshop:  Conference On Question Answering In Restricted Domains	0.0015076984097796289
+Named Entities Workshop (NEWS)	0.0015062429940743594
+Workshop On Feature Engineering For Machine Learning In Natural Language Processing	0.0015027153711447163
+Proceedings of the Sixth SIGHAN Workshop on Chinese Language Processing	0.0014978246786805126
+Workshop On Human Language Technology And Knowledge Management	0.0014886943375831264
+Workshop On Word Senses And Multi-Linguality	0.0014852343492660243
+Proceedings of the 2009 Workshop on Language Generation and Summarisation (UCNLG+Sum 2009)	0.001484011656276336
+ICCS	0.0014736582568511828
+Workshop On Automatic Alignment And Extraction Of Bilingual Domain Ontology For Medical Domain Web Search	0.0014735850484663517
+Workshop On Sharing Tools And Resources	0.001469897591028135
+Workshop On Natural Language Processing For Communication Aids	0.001466033681866711
+Workshop on The People&rsquo;s Web Meets NLP: Collaboratively Constructed Semantic Resources (People's Web)	0.0014657585853070896
+Workshop On Reading Comprehension Tests As Evaluation For Computer-Based Language Understanding Systems	0.0014654404521084628
+Workshop On Software Engineering And Architecture Of Language Technology Systems SEALTS	0.0014611162151590587
+Workshop on Computational Approaches to Semitic Languages: Common Issues and Resources	0.0014519144638740584
+WASSA	0.0014344572279189351
+Proceedings of the 2009 Workshop on Text and Citation Analysis for Scholarly Digital Libraries (NLPIR4DL)	0.0014258369693287633
+Workshop On Referring Phenomena In A Multimedia Context And Their Computational Treatment	0.001406233302260009
+Workshop on Cognitive Modeling and Computational Linguistics	0.0014062110985568791
+Workshop On From Research To Commercial Applications: Making NLP Work In Practice	0.0013850137745394719
+Workshop on Prepositions	0.0013848275680588733
+Proceedings of the Workshop on Monolingual Text-To-Text Generation	0.0013796322347030847
+Workshop On Linguistic Distances	0.0013751073887751783
+Workshop On Linking Biological Literature Ontologies And Databases: Mining Biological Semantics	0.0013720056647373137
+Workshop On Information Extraction Beyond The Document	0.0013707007354126085
+STEP	0.0013694050457609473
+Workshop:  BioNLP Workshop On Linking Natural Language And Biology	0.001366919138077092
+Coling 2008: Proceedings of the workshop on Grammar Engineering Across Frameworks	0.0013421766298849552
+Workshop On Multi-Word-Expressions In A Multilingual Context	0.0013140447842457407
+Workshop On NLP And XML NLPXML RDF/RDFS And OWL In Language Technology	0.0013070301039324955
+Workshop On Computationally Hard Problems And Joint Inference In Speech And Language Processing	0.0013018705642488992
+Workshop On NLP And XML NLPXML Multi-Dimensional Markup	0.0012857792982296774
+Proceedings of the First workshop on Unsupervised Learning in NLP	0.0012757941821211608
+Workshop on Computational Linguistics and Writing	0.0012573016481338484
+Workshop On Multilingual Language Resources And Interoperability	0.0012546888823761872
+Proceedings of the 2009 Workshop on Applied Textual Inference (TextInfer)	0.001248098287388723
+Proceedings of the Student Research Workshop at EACL 2009	0.001243559367601826
+Workshop On Psychocomputational Models Of Human Language Acquisition	0.0012338047247234865
+Workshop On Frontiers In Linguistically Annotated Corpora	0.0012312941623770916
+Proceedings of the 6th Workshop on Asian Language Resources	0.0012101023775027567
+Workshop On Adaptive Text Extraction And Mining ATEM	0.0012089126878034992
+Workshop on Balto-Slavonic Natural Language Processing	0.0012036509582013094
+Workshop On Task-Focused Summarization And Question Answering	0.0011990735250785606
+Workshop on Cognitive Aspects of Computational Language Acquisition	0.0011920924507157695
+Workshop On Scalable Natural Language Understanding (ScaNaLU)	0.0011709688200103813
+Workshop On Speech-To-Speech Translation: Algorithms And Systems	0.0011689544607095933
+Workshop On Reversible Grammar In Natural Language Processing	0.0011672914728076487
+Proceedings of the Sixth International Workshop on Linguistically Interpreted Corpora (LINC-2005)	0.00115822243807875
+Workshop On Enhancing And Using Electronic Dictionaries	0.0011435500303096768
+Proceedings of BioNLP Shared Task 2011 Workshop	0.0011361032948886728
+SIGSEM Workshop On Prepositions	0.001133050604424092
+Proceedings of the Tenth Meeting of ACL Special Interest Group on Computational Morphology and Phonology	0.001122395066600047
+Proceedings of the 7th Workshop on Asian Language Resources (ALR7)	0.0011185274904754153
+TACL	0.001110850819110537
+Workshop On Cross-Language Knowledge Induction Workshop	0.0010914035086824632
+Proceedings of the NAACL HLT 2010 Workshop on Active Learning for Natural Language Processing	0.0010767949352475407
+Workshop On RObust Methods In Analysis Of Natural Language Data ROMAND	0.0010755817628015103
+Proceedings of the EACL 2009 Workshop on Computational Approaches to Semitic Languages	0.001072613891222549
+Proceedings of the NAACL HLT 2010 First International Workshop on Formalisms and Methodology for Learning by Reading	0.0010566033027101177
+Coling 2008: Proceedings of the workshop Multi-source Multilingual Information Extraction and Summarization	0.0010508530981849353
+Workshop On Syntactic And Semantic Complexity In Natural Language Processing Systems	0.0010469261280526161
+Proceedings of the NAACL HLT 2010 Workshop on Semantic Search	0.0010369621387499317
+Workshop On Spoken Language Understanding For Conversational Systems And Higher Level Linguistic Information For Speech Processing	0.0010296976318720506
+Coling 2008: Proceedings of the workshop on Speech Processing for Safety Critical Translation and Pervasive Applications	0.0010286534908464724
+*SEM	0.0010264978121659455
+Workshop On Computer Mediated Language Assessment And Evaluation In Natural Language Processing	0.0010251449637811243
+Workshop on Speech and Language Processing for Assistive Technologies	0.0010184701905825576
+Proceedings of the 2009 Workshop on Grammar Engineering Across Frameworks (GEAF 2009)	0.0010178869641773115
+Proceedings of the Workshop on Automatic Summarization for Different Genres Media and Languages	0.0010156486144732683
+Proceedings of the 2010 Workshop on NLP and Linguistics: Finding the Common Ground	0.001005377586456864
+Workshop On Interdisciplinary Approaches To Speech Indexing And Retrieval	0.0009865131165354977
+Workshop On Evaluation Methodologies For Language And Dialogue Systems	0.0009815709364861488
+Workshop On Interactive Spoken Dialog Systems: Bringing Speech And NLP Together In Real Applications	0.0009806418338426028
+HLT-NAACL Companion Volume: Student Research Workshop and Doctoral Consortium	0.0009801248395819098
+OntoLex	0.0009648841359007702
+Proceedings of the 2nd workshop on Cross Lingual Information Access (CLIA) Addressing the Information Need of Multilingual Societies	0.000948425767936546
+Workshop On Learning Word Meaning From Non-Linguistic Data	0.0009469782327529878
+Proceedings of ACL SIGLEX Workshop on Software	0.0009346756450905093
+Proceedings of the ACL 2010 Student Research Workshop	0.0009272750836260006
+CogALex	0.0009039962060404164
+Workshop On Multilingual Question Answering MLQA	0.0008924647848419459
+Proceedings of the EACL 2009 Workshop on Computational Linguistic Aspects of Grammatical Inference	0.0008917909422888918
+Proceedings of the Workshop on Software Engineering Testing and Quality Assurance for Natural Language Processing (SETQA-NLP 2009)	0.0008904344457907415
+Workshop On The Lexicon And Figurative Language	0.0008826504151891953
+Proceedings of the ACL-08: HLT Workshop on Mobile Language Processing	0.0008707091211095293
+Workshop On Recent Advances In Natural Language Processing And Information Retrieval	0.0008656974068514359
+Proceedings of the NAACL HLT 2010 Workshop on Computational Linguistics in a World of Social Media	0.0008645620115803337
+Workshop On Research Directions In Dialogue Processing	0.0008379917596007348
+Workshop On Ontology Learning And Population: Bridging The Gap Between Text And Knowledge	0.0008353227949030783
+Louhi	0.0008280729754460639
+Proceedings of the Workshop on Unsupervised and Minimally Supervised Learning of Lexical Semantics	0.0008233799860903491
+Proceedings of the NAACL HLT 2010 Sixth Web as Corpus Workshop	0.0008201194481178369
+Proceedings of the Workshop on Distributional Semantics and Compositionality	0.0008158142477255762
+Workshop: Will We Ever Really Replace the N-gram Model? On the Future of Language Modeling for HLT	0.0008092018085958262
+Workshop On KRAQ Knowledge And Reasoning For Language Processing	0.0008086027064379743
+Proceedings of the 2010 Workshop on Companionable Dialogue Systems	0.000803654661409137
+Interactive Question Answering Workshop	0.0007967409302697988
+Workshop On Applied Interlinguas: Practical Applications Of Interlingual Approaches To NLP	0.0007926618799706847
+Workshop On Psycho-Computational Models Of Human Language Acquisition	0.0007925548748219362
+Proceedings of the Workshop on Technologies and Corpora for Asia-Pacific Speech Translation (TCAST)	0.0007866760917794559
+CLP	0.0007681351389275538
+Proceedings of the Second Workshop on NLP Challenges in the Information Explosion Era (NLPIX 2010)	0.0007649383228763303
+Proceedings of the ACL 2011 Workshop on Relational Models of Semantics	0.0007615049519610941
+SIGPHON Workshop On The Computation Of Phonological Constraints	0.0007603240447916852
+Proceedings of the First Workshop on Language Technologies for African Languages	0.0007593071613091762
+Workshop on Computational Linguistics for Literature	0.0007541560636740538
+Workshop On ROMAND Robust Methods In Analysis Of Natural Language Data	0.0007276633523919878
+Proceedings of the EACL 2003 Workshop on Evaluation Initiatives in Natural Language Processing: are evaluation methods metrics and resources reusable?	0.0007238752873089409
+ACL-2012 Special Workshop on Rediscovering 50 Years of Discoveries	0.00071847983184564
+Joint Workshop on Unsupervised and Semi-Supervised Learning in NLP	0.000715352679388124
+Workshop on the Induction of Linguistic Structure	0.0007141754574419057
+Workshop on Detecting Structure in Scholarly Discourse	0.0007132855666395671
+Workshop On ELearning For Computational Linguistics And Computational Linguistics For ELearning	0.0007019267979388273
+Proceedings of the EACL 2009 Workshop on the Interaction between Linguistics and Computational Linguistics: Virtuous Vicious or Vacuous?	0.0007000776693516722
+Workshop on Semantic Analysis in Social Media	0.0006998982894960259
+Workshop On A Roadmap For Computational Linguistics	0.0006892768019225808
+Proceedings of the NAACL HLT 2010 Young Investigators Workshop on Computational Approaches to Languages of the Americas	0.0006883886915379494
+Proceedings of the NAACL HLT 2010 Student Research Workshop	0.0006816952794784373
+Proceedings of the Third International Workshop on Cross Lingual Information Access: Addressing the Information Need of Multilingual Societies (CLIAWS3)	0.000681449867877146
+Workshop on Extra-Propositional Aspects of Meaning in Computational Linguistics	0.0006813493746724634
+Coling 2008: Proceedings of the workshop on Knowledge and Reasoning for Answering Questions	0.000670368208171279
+Workshop On Language Resources For Translation Work Research And Training	0.0006690939121710295
+LASM	0.0006690939121710294
+metaphor in NLP	0.0006690939121710294
+Workshop On Linguistic Annotation: Getting The Model Right	0.0006672677410569358
+Proceedings of the Third Workshop on Issues in Teaching Computational Linguistics	0.0006667183741292213
+Joint Workshop on Exploiting Synergies between Information Retrieval and Machine Translation (ESIRMT) and Hybrid Approaches to Machine Translation (HyTra)	0.000655196717369145
+Workshop On Machine Translation In Asia	0.000648291834822748
+Proceedings of the NAACL HLT 2010 Second Workshop on Computational Approaches to Linguistic Creativity	0.000644179272062861
+Proceedings of the Fifth Workshop on Asian Language Resources (ALR-05) and First Symposium on Asian Language Resources Network (ALRN)	0.000644109074368888
+Proceedings of SRSL 2009 the 2nd Workshop on Semantic Representation of Spoken Language	0.0006382984147533131
+Joint Workshop on Statistical Parsing and Semantic Processing of Morphologically Rich Languages	0.0006290199965970079
+Proceedings of the UCNLG+Eval: Language Generation and Evaluation Workshop	0.0006196499117609562
+Workshop on Innovative Hybrid Approaches to the Processing of Textual Data	0.0006145405231577066
+Workshop on Embodied Language Processing	0.0006050210873898566
+CAtoCL	0.0006050210873898566
+Workshop on Predicting and Improving Text Readability for target reader populations	0.0005901709189629827
+Coling 2008: Proceedings of the workshop on Human Judgements in Computational Linguistics	0.0005708761395960629
+WSSANLP	0.0005708761395960629
+Proceedings of the 4th Workshop on Cross Lingual Information Access	0.0005708761395960629
+Joint Workshop of LINGVIS & UNCLH	0.0005708761395960629
+Workshop on Computational Approaches to Deception Detection	0.0005708761395960629
+Workshop on Evaluation Metrics and System Comparison for Automatic Summarization	0.0005708761395960629
+Workshop On Web As Corpus	0.0005398725115152471
+Workshop On Medical Speech Translation	0.0005266526960071408
+Proceedings of the 6th Workshop on  Ontologies and Lexical Resources 	0.0005214321391859896
+CVSC	0.0005190924672385094
+Workshop On Concept To Speech Generation Systems	0.0005096214714912506
+Workshop On Patent Corpus Processing	0.0005091766766845557
+Events: Definition, Detection, Coreference, and Representation	0.0005091766766845557
+DiscoMT	0.0005091766766845557
+Frame Semantics in NLP: A Workshop in Honor of Chuck Fillmore (1929-2014)	0.0005091766766845557
+Proceedings of the IJCNLP-08 Workshop on Named Entity Recognition for South and South East Asian Languages	0.0005060117551099708
+Workshop on Future directions and needs in the Spoken Dialog Community: Tools and Data (SDCTD 2012)	0.0004997709018618853
+Proceedings of the 11th Meeting of the ACL Special Interest Group on Computational Morphology and Phonology	0.000499448423298947
+Coling 2008: Proceedings of the workshop on Cross-Framework and Cross-Domain Parser Evaluation	0.0004991074801330406
+TTNLS	0.0004951312097705894
+Proceedings of the 2003 EACL Workshop on Morphological Processing of Slavic Languages	0.000492192939008377
+Workshop On Computer And Internet Supported Education In Language And Speech Technology	0.0004855424817880511
+Workshop on Speech and Multimodal Interaction in Assistive Environments	0.00048401234083399343
+Workshop On How Can Computational Linguistics Improve Information Retrieval?	0.00047456090439006616
+Workshop on Multilingual Modeling	0.0004678665067574328
+Proceedings of the NAACL HLT Workshop on Extracting and Using Constructions in Computational Linguistics	0.0004593387419984946
+Proceedings of the Twelfth Meeting of the Special Interest Group on Computational Morphology and Phonology	0.00045918697055658046
+Workshop On Constraints And Language Processing	0.0004571111766825593
+Proceedings of the NAACL HLT 2010 First Workshop on Computational Neurolinguistics	0.0004571111766825593
+Workshop on Grammar-Based Approaches to Spoken Language Processing	0.00045422965154248045
+Proceedings of the Eighth Workshop on Asian Language Resouces	0.0004422251390456201
+HyTra	0.0004238250208128359
+Proceedings of the TextInfer 2011 Workshop on Textual Entailment	0.00042087469466354274
+Workshop on Analysis of Large Scale Social Interaction in MOOCs	0.0004109589041095891
+LG-LP	0.0004109589041095891
+WVL	0.0004109589041095891
+VarDial	0.0004109589041095891
+MultiLing	0.0004109589041095891
+Workshop on Interactive Language Learning, Visualization, and Interfaces	0.0004109589041095891
+Workshop on Computational Linguistics and Clinical Psychology: From Linguistic Signal to Clinical Reality	0.0004109589041095891
+ComAComA	0.0004109589041095891
+AHA!-Workshop on Information Discovery in Text	0.0004109589041095891
+HaCat	0.0004109589041095891
+SADAATL	0.0004109589041095891
+SocialNLP	0.0004109589041095891
+Proceedings of the EACL 2009 Workshop on Cognitive Aspects of Computational Language Acquisition	0.0004109589041095891
+NLP4ITA	0.0004109589041095891
+SP	0.0004109589041095891
+Workshop on Argumentation Mining	0.0004109589041095891
+LT4CloseLang	0.0004109589041095891
+CLTW	0.0004109589041095891
+ComputEL	0.0004109589041095891
+MoL	0.0004109589041095891
+ATS-MA	0.0004109589041095891
+Joint Workshop on Social Dynamics and Personal Attributes in Social Media	0.0004109589041095891
+Workshop on Computational Approaches to Code Switching	0.0004109589041095891
+Proceedings of the 2010 Workshop on Applications of Tree Automata in Natural Language Processing	0.0004109589041095891
+SWAIE	0.0004109589041095891
+Workshop on Applications of Tree Automata Techniques in Natural Language Processing	0.0004109589041095891
+CogACLL	0.0004109589041095891
+Workshop on Semantic Interpretation in an Actionable Context	0.0004109589041095891
+INLG and SIGDIAL 2014 Joint Session	0.0004109589041095891
+VL	0.0004109589041095891
+LTCSS	0.0004109589041095891
+SIGMORPHON and SIGFSM	0.0004109589041095891
+Proceedings of the 2009 Workshop on Knowledge and Reasoning for Answering Questions (KRAQ 2009)	0.0004109589041095891
+OIAF4HLT	0.0004109589041095891
+Workshop On Partially Automated Techniques For Transcribing Naturally Occurring Continuous Speech	0.0004109589041095891
+Workshop on Computational Models of Language Acquisition and Loss	0.0004109589041095891
+Dialogue in Motion	0.0004109589041095891
+JEP-TALN-RECITAL 2012, Workshop DEGELS 2012: Défi GEste Langue des Signes (DEGELS 2012: Gestures and Sign Language Challenge)	0.0004109589041095891
